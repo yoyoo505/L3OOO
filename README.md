@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/Whatsapp%20channel-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/><br />
   </div>
   <h1>
-    Hello, I'm XM4ZE
+    Hello, I'm leoo
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
@@ -25,11 +25,10 @@
   ---
 
 ### :man_technologist: About Me :
-- I'm Maximus **XM4ZE**
+- I'm **leoo**
 - My Daily Life **Sleep, Working and Playing Games**
-- The anime I like is **BERSERK**
-- Join my Bot Group [Click here](https://chat.whatsapp.com/FJRtTzRKxP8A2wT6fcCW3s)
-- Just want to donate here [Click here](https://telegra.ph/file/960c11c865c67dd142c70.jpg) **DANA, SPAY, OVO, GOPAY, TNG, ETC**
+- The char I like is **Komari**
+- Join my Bot Group [Click here](https://chat.whatsapp.com/K5UqAb4kF770MFjZGy4vqC) 
 <div>
     <h2 align="center">I Use</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
