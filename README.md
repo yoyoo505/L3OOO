@@ -2,16 +2,16 @@
   <img src="https://github.com/XM4ZE/DATABASE/blob/master/wallpaper/Guts%20Berserk%20Rain%20GIF%20-%20Guts%20Berserk%20Guts%20Berserk%20-%20Discover%20%26%20Share%20GIFs.gif?raw=true" width="400" height="200"/>
 </div>
 <div id="badges" align="center">
-    <a href="https://instagram.com/maximusstore.id">
+    <a href="https://www.instagram.com/leoo._.0201?igsh=MXBqZ2ZkbGN3Zmlkbw==">
       <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black"/>
     </a>
-    <a href="https://wa.me/6281283516246">
+    <a href="https://wa.me/6289515696273">
       <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/><br />
     </a>
-    <a href="https://t.me/xm4ze">
+    <a href="https://t.me/leoo">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/><br />
     </a>
-    <a href="https://whatsapp.com/channel/0029VaL28ZqFSAtCdSU5EX0M">
+    <a href="https://whatsapp.com/channel/0029VasP9O2HLHQSSlEiTx0X">
       <img src="https://img.shields.io/badge/Whatsapp%20channel-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/><br />
   </div>
   <h1>
